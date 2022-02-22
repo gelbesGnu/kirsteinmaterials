@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "./static/js/main.7c4f7fcd.js",
-    "index.html": "./index.html",
-    "main.7c4f7fcd.js.map": "./static/js/main.7c4f7fcd.js.map"
+    "main.js": "/gelbesgnu.github.io/kirsteinmaterials/static/js/main.7c4f7fcd.js",
+    "index.html": "/gelbesgnu.github.io/kirsteinmaterials/index.html",
+    "main.7c4f7fcd.js.map": "/gelbesgnu.github.io/kirsteinmaterials/static/js/main.7c4f7fcd.js.map"
   },
   "entrypoints": [
     "static/js/main.7c4f7fcd.js"
