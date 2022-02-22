@@ -32,7 +32,7 @@ const Cart = ({ cart , handleUpdateCartQty, handleRemoveFromCart, handleEmptyCar
                     </Typography>
                     <div>
                         <Button className={classes.emptyButton} size="large" type="button" variant="contained" color="secondary" onClick={handleEmptyCart}>Warenkorb löschen</Button>
-                        <Button className={classes.checkoutButton} size="large" type="button" variant="contained" color="primary">Bezahlen</Button>
+                        <Button component={Link} to="/checkout" className={classes.checkoutButton} size="large" type="button" variant="contained" color="primary">Bezahlen</Button>
                     </div>
 
             </div>
